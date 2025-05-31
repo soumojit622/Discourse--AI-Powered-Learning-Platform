@@ -45,13 +45,13 @@ Check it out here → [https://discourse.vercel.app](https://discourse.vercel.ap
 
 | Technology   | Purpose                                                                                      | Icon                             |
 |--------------|----------------------------------------------------------------------------------------------|---------------------------------|
-| Clerk        | Authentication, user management, and billing with embeddable UI and APIs                     | ![Clerk](https://cdn.brandfetch.io/idGrtLvNcI/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1744030757701)         |
-| Next.js      | React framework with SSR, SSG, and API routes for scalable web apps                         | ![Next.js]([https://nextjs.org/static/favicon/favicon.ico](https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714556222178))         |
-| Sentry       | Real-time error monitoring and performance tracking                                         | ![Sentry](https://sentry.io/favicon.ico)         |
+| Clerk        | Authentication, user management, and billing with embeddable UI and APIs                     | ![Clerk])]         |
+| Next.js      | React framework with SSR, SSG, and API routes for scalable web apps                         | ![Next.js](https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg)         |
+| Sentry       | Real-time error monitoring and performance tracking                                         | ![Sentry](https://github.com/Scar1109/skill-icons/blob/main/icons/Sentry.svg)         |
 | shadcn/ui    | Accessible, customizable UI components built with Radix UI and Tailwind CSS                 | 🧱 (Custom Icon)                 |
-| Supabase     | Open-source backend-as-a-service with instant APIs, auth, real-time data, and PostgreSQL    | ![Supabase](https://supabase.com/favicon.ico)   |
-| Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | ![Tailwind CSS](https://tailwindcss.com/favicon-32x32.png)         |
-| TypeScript   | JavaScript superset adding static typing for better tooling                                 | ![TypeScript](https://www.typescriptlang.org/favicon-32x32.png)    |
+| Supabase     | Open-source backend-as-a-service with instant APIs, auth, real-time data, and PostgreSQL    | ![Supabase](https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Light.svg)   |
+| Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | ![Tailwind CSS](https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg)         |
+| TypeScript   | JavaScript superset adding static typing for better tooling                                 | ![TypeScript](https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg)    |
 | Vapi         | Voice AI platform enabling real-time conversational agents with speech recognition          | 🎙️ (Microphone Emoji)            |
 | Zod          | TypeScript-first schema validation library                                                  | 🛡️ (Shield Emoji)               |
 
