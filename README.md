@@ -6,7 +6,7 @@ Discourse is a modern SaaS Learning Management System powered by AI, enabling us
 
 ## 🌍 Live Demo
 
-Check it out here → [https://discourse.vercel.app](https://discourse.vercel.app)
+Check it out here → [Discourse](https://discourse-eight-mu.vercel.app)
 
 ---
 
@@ -45,15 +45,15 @@ Check it out here → [https://discourse.vercel.app](https://discourse.vercel.ap
 
 | Technology   | Purpose                                                                                      | Logo                             |
 |--------------|----------------------------------------------------------------------------------------------|---------------------------------|
-| Clerk        | Authentication, user management, and billing with embeddable UI and APIs                     | <img src="https://clerk.dev/favicon.ico" width="20" alt="Clerk" />         |
-| Next.js      | React framework with SSR, SSG, and API routes for scalable web apps                         | <img src="https://nextjs.org/static/favicon/favicon.ico" width="20" alt="Next.js" />         |
+| Clerk        | Authentication, user management, and billing with embeddable UI and APIs                     | <img src="https://pipedream.com/s.v0/app_dBhw8k/logo/orig" width="20" alt="Clerk" />         |
+| Next.js      | React framework with SSR, SSG, and API routes for scalable web apps                         | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" width="20" alt="Next.js" />         |
 | Sentry       | Real-time error monitoring and performance tracking                                         | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sentry.svg" width="20" alt="Sentry" />         |
-| shadcn/ui    | Accessible, customizable UI components built with Radix UI and Tailwind CSS                 | <img src="https://shadcn-ui.com/favicon.ico" width="20" alt="shadcn/ui" />  |
-| Supabase     | Open-source backend-as-a-service with instant APIs, auth, real-time data, and PostgreSQL    | <img src="https://supabase.com/favicon.ico" width="20" alt="Supabase" />   |
-| Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | <img src="https://tailwindcss.com/favicon-32x32.png" width="20" alt="Tailwind CSS" />         |
+| shadcn/ui    | Accessible, customizable UI components built with Radix UI and Tailwind CSS                 | <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="20" alt="shadcn/ui" />  |
+| Supabase     | Open-source backend-as-a-service with instant APIs, auth, real-time data, and PostgreSQL    | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Light.svg" width="20" alt="Supabase" />   |
+| Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="20" alt="Tailwind CSS" />         |
 | TypeScript   | JavaScript superset adding static typing for better tooling                                 | <img src="https://www.typescriptlang.org/favicon-32x32.png" width="20" alt="TypeScript" />    |
 | Vapi         | Voice AI platform enabling real-time conversational agents with speech recognition          | <img src="https://vapi.ai/favicon.ico" width="20" alt="Vapi" />             |
-| Zod          | TypeScript-first schema validation library                                                  | <img src="https://zod.dev/favicon.ico" width="20" alt="Zod" />             |
+| Zod          | TypeScript-first schema validation library                                                  | <img src="https://images.seeklogo.com/logo-png/48/1/zod-logo-png_seeklogo-486871.png" width="20" alt="Zod" />             |
 
 
 ---
@@ -80,12 +80,42 @@ Check it out here → [https://discourse.vercel.app](https://discourse.vercel.ap
 
 ---
 
-## 💬 Connect With Me
+## 💬 **Contribute to Aspire**  
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐙 [GitHub](https://github.com/your-username)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
+We welcome contributions from developers and enthusiasts! To contribute:  
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. 🖊️ Commit your changes:
+    ```bash
+    git commit -m "Add your feature"
+    ```
+4. 🚀 Push the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. 🔀 Open a pull request to merge your changes.
 
 ---
 
-> Built with ❤️ by [Your Name]
+## 📬 **Contact & Support**  
+
+💬 **Have any questions or suggestions? Feel free to reach out!**  
+
+📧 **Email**: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)  
+🔗 **LinkedIn**: [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
+
+---
+
+## 👨‍💻 **Developed by [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)**  
+
+If you enjoyed using this project, please ⭐ it on GitHub! 🌟  
+
+---
+
+## 🎉 **Acknowledgements**  
+
+Special thanks to **ChatGPT** and **v0dev** for assisting in optimizing and streamlining the development of this project! 🚀✨  
