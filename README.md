@@ -43,17 +43,18 @@ Check it out here → [https://discourse.vercel.app](https://discourse.vercel.ap
 
 ## 📦 Tech Stack
 
-| Technology   | Purpose                                                                                      | Icon                             |
+| Technology   | Purpose                                                                                      | Logo                             |
 |--------------|----------------------------------------------------------------------------------------------|---------------------------------|
-| Clerk        | Authentication, user management, and billing with embeddable UI and APIs                     | ![Clerk])]         |
-| Next.js      | React framework with SSR, SSG, and API routes for scalable web apps                         | ![Next.js](https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg)         |
-| Sentry       | Real-time error monitoring and performance tracking                                         | ![Sentry](https://github.com/Scar1109/skill-icons/blob/main/icons/Sentry.svg)         |
-| shadcn/ui    | Accessible, customizable UI components built with Radix UI and Tailwind CSS                 | 🧱 (Custom Icon)                 |
-| Supabase     | Open-source backend-as-a-service with instant APIs, auth, real-time data, and PostgreSQL    | ![Supabase](https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Light.svg)   |
-| Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | ![Tailwind CSS](https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg)         |
-| TypeScript   | JavaScript superset adding static typing for better tooling                                 | ![TypeScript](https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg)    |
-| Vapi         | Voice AI platform enabling real-time conversational agents with speech recognition          | 🎙️ (Microphone Emoji)            |
-| Zod          | TypeScript-first schema validation library                                                  | 🛡️ (Shield Emoji)               |
+| Clerk        | Authentication, user management, and billing with embeddable UI and APIs                     | <img src="https://clerk.dev/favicon.ico" width="20" alt="Clerk" />         |
+| Next.js      | React framework with SSR, SSG, and API routes for scalable web apps                         | <img src="https://nextjs.org/static/favicon/favicon.ico" width="20" alt="Next.js" />         |
+| Sentry       | Real-time error monitoring and performance tracking                                         | <img src="https://sentry.io/favicon.ico" width="20" alt="Sentry" />         |
+| shadcn/ui    | Accessible, customizable UI components built with Radix UI and Tailwind CSS                 | <img src="https://shadcn-ui.com/favicon.ico" width="20" alt="shadcn/ui" />  |
+| Supabase     | Open-source backend-as-a-service with instant APIs, auth, real-time data, and PostgreSQL    | <img src="https://supabase.com/favicon.ico" width="20" alt="Supabase" />   |
+| Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | <img src="https://tailwindcss.com/favicon-32x32.png" width="20" alt="Tailwind CSS" />         |
+| TypeScript   | JavaScript superset adding static typing for better tooling                                 | <img src="https://www.typescriptlang.org/favicon-32x32.png" width="20" alt="TypeScript" />    |
+| Vapi         | Voice AI platform enabling real-time conversational agents with speech recognition          | <img src="https://vapi.ai/favicon.ico" width="20" alt="Vapi" />             |
+| Zod          | TypeScript-first schema validation library                                                  | <img src="https://zod.dev/favicon.ico" width="20" alt="Zod" />             |
+
 
 ---
 
