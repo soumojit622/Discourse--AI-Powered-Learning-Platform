@@ -37,32 +37,18 @@ Discourse is a modern, AI-powered SaaS Learning Management System (LMS) that let
 
 ## 📦 Tech Stack
 
-### ⚙️ Clerk  
-A unified platform for **authentication**, **user management**, and **billing** with embeddable UI components, flexible APIs, and dashboards. It handles subscription logic and access control in one place.
+| Technology   | Description                                                                                                            | Logo / Icon                          |
+|--------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| Clerk        | A unified platform for **authentication**, **user management**, and **billing** with embeddable UI components and APIs.| ![Clerk](https://clerk.dev/favicon.ico)          |
+| Next.js      | React framework for building fast, scalable web apps with **SSR**, **SSG**, and **API routes**.                        | ![Next.js](https://nextjs.org/static/favicon/favicon.ico)          |
+| Sentry       | Error tracking and performance monitoring with **real-time alerts** and **stack traces**.                             | ![Sentry](https://sentry.io/favicon.ico)          |
+| shadcn/ui    | Component library built on **Radix UI** and **Tailwind CSS** for accessible, customizable UI components.              | 🧱 (Custom Icon)                    |
+| Supabase     | Open-source backend-as-a-service with **instant APIs**, **auth**, **real-time subscriptions**, and **PostgreSQL**.     | ![Supabase](https://supabase.com/favicon.ico)    |
+| Tailwind CSS | Utility-first CSS framework enabling custom UI design with low-level utility classes.                                  | ![Tailwind CSS](https://tailwindcss.com/favicon-32x32.png)          |
+| TypeScript   | Superset of JavaScript adding static typing for better tooling and code quality.                                       | ![TypeScript](https://www.typescriptlang.org/favicon-32x32.png)     |
+| Vapi         | Voice AI platform for **real-time conversational agents** with speech-to-text and text-to-speech capabilities.         | 🎙️ (Microphone Emoji)               |
+| Zod          | TypeScript-first schema validation library for defining and validating data structures.                                | 🛡️ (Shield Emoji)                  |
 
-### ⚙️ Next.js  
-A React framework for building fast, scalable web apps with **server-side rendering**, **static generation**, and **API routes**.
-
-### ⚙️ Sentry  
-An error tracking and performance monitoring tool that offers **real-time alerts**, **stack traces**, and performance insights to catch bugs faster.
-
-### ⚙️ shadcn/ui  
-A component library built on **Radix UI** and **Tailwind CSS**, providing accessible, customizable components for sleek UI design.
-
-### ⚙️ Supabase  
-An open-source backend-as-a-service offering **authentication**, **instant APIs**, **real-time subscriptions**, and a **PostgreSQL database**.
-
-### ⚙️ Tailwind CSS  
-A utility-first CSS framework that simplifies UI design using low-level utility classes.
-
-### ⚙️ TypeScript  
-A statically typed superset of JavaScript that improves **code quality**, **tooling**, and **developer experience**.
-
-### ⚙️ Vapi  
-A voice AI platform for creating **real-time conversational agents** with **low-latency**, **text-to-speech**, and **speech-to-text** capabilities.
-
-### ⚙️ Zod  
-A TypeScript-first **schema validation** library for defining and validating complex data structures with minimal code.
 
 ---
 
