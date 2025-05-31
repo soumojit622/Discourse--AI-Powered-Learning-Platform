@@ -53,20 +53,20 @@ Check it out here → [Discourse](https://discourse-eight-mu.vercel.app)
 | Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="20" alt="Tailwind CSS" />         |
 | TypeScript   | JavaScript superset adding static typing for better tooling                                 | <img src="https://www.typescriptlang.org/favicon-32x32.png" width="20" alt="TypeScript" />    |
 | Vapi         | Voice AI platform enabling real-time conversational agents with speech recognition          | <img src="https://vapi.ai/favicon.ico" width="20" alt="Vapi" />             |
-| Zod          | TypeScript-first schema validation library                                                  | <img src="https://images.seeklogo.com/logo-png/48/1/zod-logo-png_seeklogo-486871.png" width="20" alt="Zod" />             |
+| Zod          | TypeScript-first schema validation library                                                  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmZc_J1EaSZVwjRsqSiOWxWDMGTtCcD6a6A&s" width="20" alt="Zod" />             |
 
 
 ---
 
 ## 🧰 Additional Highlights
 
-- AI-powered voice tutors tailored to your learning topics.  
-- Build your own tutor by selecting subject, tone, and voice style.  
-- Fully responsive UI compatible with all devices.  
-- Real-time data syncing via Supabase backend.  
-- Modern and clean UI/UX using Tailwind CSS and shadcn/ui components.  
-- Scalable architecture with Next.js and reusable components.  
-- Production monitoring and error tracking using Sentry.
+- 🧠 **AI-powered Voice Tutors**: Tailored to your learning topics for a personal learning experience.  
+- 🛠️ **Custom Tutor Builder**: Build your own tutor by selecting subject, tone, and voice style.  
+- 📱 **Responsive UI**: Fully optimized and compatible with all devices.  
+- 🔄 **Real-time Sync**: Seamless data updates powered by Supabase backend.  
+- 🎨 **Modern UI/UX**: Clean design using Tailwind CSS and shadcn/ui components.  
+- 🧩 **Scalable Architecture**: Built on Next.js with reusable components and modular design.  
+- 🐞 **Error Monitoring**: Sentry integration for production monitoring and debugging.
 
 ---
 
