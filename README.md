@@ -1,102 +1,89 @@
-# 🧠 Discourse - AI Learning Companion Platform
+# 🧠 Discourse – AI-Powered Learning Companion Platform
 
-Discourse is a modern, AI-powered SaaS Learning Management System (LMS) that lets learners build personalized voice-based AI companions. Pick your subject, customize your assistant’s style and voice, and enjoy an immersive, conversational learning experience! ✨
+Discourse is a modern SaaS Learning Management System powered by AI, enabling users to create personalized voice-based learning assistants. Choose your favorite subject, customize your tutor’s voice and style, and engage in natural, interactive voice conversations for an immersive learning experience! ✨
+
+---
+
+## 🌍 Live Demo
+
+Check it out here → [https://discourse.vercel.app](https://discourse.vercel.app)
 
 ---
 
 ## 🚀 Features
 
 - 🎨 **AI Companion Builder**  
-  Name your assistant, choose a subject (like Science, History, Economics), and select its voice and personality.
+  Name your assistant, select a subject (Science, History, Economics, etc.), and customize voice and personality.
 
 - 🔊 **Natural Voice Conversations**  
-  Learn through real-time voice interactions that feel intuitive and human.
+  Interact through real-time voice chat that feels natural and human-like.
 
-- 📌 **Bookmarks and Session History**  
-  Organize your learning journey by bookmarking tutors and reviewing past conversations.
+- 📌 **Bookmarks & Session History**  
+  Save your favorite tutors and revisit past conversations to track your learning journey.
 
-- 👤 **Authentication**  
-  Secure user sign-up and sign-in with Clerk (supports Google and more).
+- 👤 **Secure Authentication**  
+  Easy sign-up and sign-in with Clerk, supporting Google and other providers.
 
-- 💳 **Billing & Subscriptions**  
-  Flexible subscription plans with Stripe integration and role-based access.
+- 💳 **Billing & Subscription Management**  
+  Flexible plans powered by Stripe with role-based access control.
 
 - 🧾 **Progress Tracking**  
   Automatically track lessons completed and companions created.
 
-- 🔍 **Search Functionality**  
-  Find tutors quickly with robust filters and search support.
+- 🔍 **Robust Search & Filters**  
+  Quickly find tutors using powerful search functionality.
 
-- 🛠️ **Modular Codebase**  
-  Reusable components and clean architecture for maintainability.
+- 🛠️ **Modular & Maintainable Codebase**  
+  Built with reusable components and clean architecture for scalability.
 
 - 🌐 **Responsive Design**  
-  Works beautifully across all devices.
+  Works flawlessly across desktop, tablet, and mobile devices.
 
 ---
 
 ## 📦 Tech Stack
 
-| Technology   | Description                                                                                                            | Logo / Icon                          |
-|--------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| Clerk        | A unified platform for **authentication**, **user management**, and **billing** with embeddable UI components and APIs.| ![Clerk](https://clerk.dev/favicon.ico)          |
-| Next.js      | React framework for building fast, scalable web apps with **SSR**, **SSG**, and **API routes**.                        | ![Next.js](https://nextjs.org/static/favicon/favicon.ico)          |
-| Sentry       | Error tracking and performance monitoring with **real-time alerts** and **stack traces**.                             | ![Sentry](https://sentry.io/favicon.ico)          |
-| shadcn/ui    | Component library built on **Radix UI** and **Tailwind CSS** for accessible, customizable UI components.              | 🧱 (Custom Icon)                    |
-| Supabase     | Open-source backend-as-a-service with **instant APIs**, **auth**, **real-time subscriptions**, and **PostgreSQL**.     | ![Supabase](https://supabase.com/favicon.ico)    |
-| Tailwind CSS | Utility-first CSS framework enabling custom UI design with low-level utility classes.                                  | ![Tailwind CSS](https://tailwindcss.com/favicon-32x32.png)          |
-| TypeScript   | Superset of JavaScript adding static typing for better tooling and code quality.                                       | ![TypeScript](https://www.typescriptlang.org/favicon-32x32.png)     |
-| Vapi         | Voice AI platform for **real-time conversational agents** with speech-to-text and text-to-speech capabilities.         | 🎙️ (Microphone Emoji)               |
-| Zod          | TypeScript-first schema validation library for defining and validating data structures.                                | 🛡️ (Shield Emoji)                  |
-
+| Technology   | Purpose                                                                                      | Icon                             |
+|--------------|----------------------------------------------------------------------------------------------|---------------------------------|
+| Clerk        | Authentication, user management, and billing with embeddable UI and APIs                     | ![Clerk](https://cdn.brandfetch.io/idGrtLvNcI/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1744030757701)         |
+| Next.js      | React framework with SSR, SSG, and API routes for scalable web apps                         | ![Next.js]([https://nextjs.org/static/favicon/favicon.ico](https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714556222178))         |
+| Sentry       | Real-time error monitoring and performance tracking                                         | ![Sentry](https://sentry.io/favicon.ico)         |
+| shadcn/ui    | Accessible, customizable UI components built with Radix UI and Tailwind CSS                 | 🧱 (Custom Icon)                 |
+| Supabase     | Open-source backend-as-a-service with instant APIs, auth, real-time data, and PostgreSQL    | ![Supabase](https://supabase.com/favicon.ico)   |
+| Tailwind CSS | Utility-first CSS framework for rapid custom UI development                                 | ![Tailwind CSS](https://tailwindcss.com/favicon-32x32.png)         |
+| TypeScript   | JavaScript superset adding static typing for better tooling                                 | ![TypeScript](https://www.typescriptlang.org/favicon-32x32.png)    |
+| Vapi         | Voice AI platform enabling real-time conversational agents with speech recognition          | 🎙️ (Microphone Emoji)            |
+| Zod          | TypeScript-first schema validation library                                                  | 🛡️ (Shield Emoji)               |
 
 ---
 
 ## 🧰 Additional Highlights
 
-- 👉 **AI Voice Agents:** Take tutoring sessions with voiced AIs specializing in the topics you want to master.
-- 👉 **Create a Tutor:** Build your own tutor by selecting a subject, topic, and tone of interaction.
-- 👉 **Cross-Device Compatibility:** Fully responsive design works seamlessly on all devices.
-- 👉 **Database Integration:** Real-time data management using Supabase.
-- 👉 **Modern UI/UX:** Crafted with Tailwind CSS and shadcn/ui for a clean, modern feel.
-- 👉 **Scalable Architecture:** Built with Next.js, ready to scale with demand.
-- 👉 **Code Architecture:** Emphasizes component reusability and modular design principles.
-- 👉 **Monitoring & Logs:** Sentry helps monitor errors and performance in production.
+- AI-powered voice tutors tailored to your learning topics.  
+- Build your own tutor by selecting subject, tone, and voice style.  
+- Fully responsive UI compatible with all devices.  
+- Real-time data syncing via Supabase backend.  
+- Modern and clean UI/UX using Tailwind CSS and shadcn/ui components.  
+- Scalable architecture with Next.js and reusable components.  
+- Production monitoring and error tracking using Sentry.
 
 ---
 
 ## 💼 Subscription Plans
 
-### 🟢 Core Learner  
-Start your journey with essential features like AI chat and progress tracking.
-
-### 🟠 Pro Companion  
-Unlock custom voices, subject depth, and enhanced interactivity.
-
-### 🔵 Discourse Premium  
-Full access to all companions, voice cloning, advanced analytics & more.
-
----
-
-## 📸 Screenshots
-
-| AI Companion Builder | Voice Conversations | My Journey |
-|----------------------|---------------------|------------|
-| ![Builder](./public/images/builder-preview.png) | ![Voice](./public/images/voice-preview.png) | ![Journey](./public/images/journey-preview.png) |
-
----
-
-## 🌍 Live Demo
-
-Try it out → [https://discourse.vercel.app](https://discourse.vercel.app)
+| Plan               | Features                                                  |
+|--------------------|-----------------------------------------------------------|
+| 🟢 Core Learner      | Essential AI chat and progress tracking features          |
+| 🟠 Pro Companion     | Custom voices, advanced subject depth, enhanced interactivity |
+| 🔵 Discourse Premium | Full access, voice cloning, advanced analytics, and more   |
 
 ---
 
 ## 💬 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🐙 [GitHub](https://github.com/your-username)  
+- 🌐 [Portfolio](https://yourportfolio.com)  
 
 ---
 
